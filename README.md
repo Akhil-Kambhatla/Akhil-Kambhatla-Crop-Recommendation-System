@@ -14,7 +14,7 @@ The system considers factors such as soil type, climate, rainfall, temperature, 
 - **User-Friendly Interface:** The system provides a user-friendly interface where users can easily input their data, view recommendations, and explore additional information.
 
 
-## Technologies Used
+## Technologies 
 - **Python:** Programming language used for model development, data preprocessing, and web application development.
 - **Scikit-learn:** Machine learning library used for model training, evaluation, and prediction.
 - **Pandas:** Data manipulation library used for data preprocessing and analysis.
