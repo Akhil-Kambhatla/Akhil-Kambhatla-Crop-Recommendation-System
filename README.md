@@ -28,7 +28,7 @@ The system considers factors such as soil type, climate, rainfall, temperature, 
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akhil-Kambhatla/Akhil-Kambhatla-Crop-Recommendation-System.git
+   git clone https://github.com/Akhil-Kambhatla/Crop-Recommendation-System.git
    ```
 2. Install the required dependencies: 
     ```bash
